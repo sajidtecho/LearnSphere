@@ -51,7 +51,6 @@ LearnSphere is a next-generation education platform designed to provide a hyper-
 
 <img width="1334" height="713" alt="image" src="https://github.com/user-attachments/assets/01693299-cf34-4841-804d-35398776432e" />
 
-<img width="1370" height="716" alt="image" src="https://github.com/user-attachments/assets/598223a6-38a3-454f-9e4e-1e50524c88e3" />
 
 <img width="983" height="726" alt="image" src="https://github.com/user-attachments/assets/48647fe3-dcc6-4710-a1ae-25de3165a4d1" />
 
@@ -67,12 +66,6 @@ You will need a valid Google Gemini API Key.
    ```bash
    git clone https://github.com/yourusername/learnsphere.git
    cd learnsphere
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1LLpK6HqyEnCWu9cYMIQqROTZdva13Keo
 
 ## Run Locally
 
