@@ -36,6 +36,26 @@ LearnSphere is a next-generation education platform designed to provide a hyper-
   - `veo` & `imagen` (Multimedia generation capabilities)
 - **State Management:** React Hooks & LocalStorage for persistence
 
+- <img width="521" height="635" alt="image" src="https://github.com/user-attachments/assets/4ec684db-8c9d-4aed-a53f-b8ce9a3f9f5a" />
+<img width="489" height="806" alt="image" src="https://github.com/user-attachments/assets/4f3d8090-5810-462c-9743-abc70d1c444b" />
+<img width="1908" height="808" alt="image" src="https://github.com/user-attachments/assets/4ceb710f-7aef-4bb9-9f9a-e81a69d5c561" />
+
+<img width="1585" height="665" alt="image" src="https://github.com/user-attachments/assets/ddbae326-d347-4e2e-8f82-ae3556cc7471" />
+<img width="1404" height="572" alt="image" src="https://github.com/user-attachments/assets/bc6016ac-8071-4596-995a-aeebb1e76323" />
+<img width="1426" height="594" alt="image" src="https://github.com/user-attachments/assets/e0fc1bbd-a076-46d3-85db-d55c0bf24001" />
+
+<img width="1412" height="605" alt="image" src="https://github.com/user-attachments/assets/879f9a36-65da-4351-9e10-9b855e1141da" />
+
+<img width="1457" height="715" alt="image" src="https://github.com/user-attachments/assets/cd8e29d7-7ee6-4295-b414-0c50d7d1ffce" />
+<img width="1429" height="435" alt="image" src="https://github.com/user-attachments/assets/294e5099-21b7-49bc-af2b-f8e04ef95dc8" />
+
+<img width="1334" height="713" alt="image" src="https://github.com/user-attachments/assets/01693299-cf34-4841-804d-35398776432e" />
+
+<img width="1370" height="716" alt="image" src="https://github.com/user-attachments/assets/598223a6-38a3-454f-9e4e-1e50524c88e3" />
+
+<img width="983" height="726" alt="image" src="https://github.com/user-attachments/assets/48647fe3-dcc6-4710-a1ae-25de3165a4d1" />
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -47,11 +67,6 @@ You will need a valid Google Gemini API Key.
    ```bash
    git clone https://github.com/yourusername/learnsphere.git
    cd learnsphere
-
-
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
 # Run and deploy your AI Studio app
 
